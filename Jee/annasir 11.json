@@ -1,0 +1,753 @@
+{
+  "bookName": "Anna sir-11",
+  "shortName": "S30",
+  "globalFeatures": {
+    "backlog": true,
+    "master": true,
+    "revisionCount": true,
+    "deleteAllowance": true
+  },
+  "chapters": [
+    {
+      "chapterName": "Sets",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Types of Sets"
+        },
+        {
+          "id": "2",
+          "name": "Operations on Sets"
+        },
+        {
+          "id": "3",
+          "name": "Operations on Sets"
+        },
+        {
+          "id": "4",
+          "name": "Algebra of sets"
+        },
+        {
+          "id": "5",
+          "name": "Algebra of sets"
+        },
+        {
+          "id": "6",
+          "name": "Geometrical Practical Problems on Union and Intersection of Two Sets"
+        },
+        {
+          "id": "7",
+          "name": "Geometrical Practical Problems on Union and Intersection of Two Sets"
+        }
+      ]
+    },
+    {
+      "chapterName": "Basic Mathematics",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Number system"
+        },
+        {
+          "id": "2",
+          "name": "Number system"
+        },
+        {
+          "id": "3",
+          "name": "Number system"
+        },
+        {
+          "id": "4",
+          "name": "Number system"
+        },
+        {
+          "id": "5",
+          "name": "Number system"
+        },
+        {
+          "id": "6",
+          "name": "Number system"
+        },
+        {
+          "id": "7",
+          "name": "Wavy Curve Method"
+        },
+        {
+          "id": "8",
+          "name": "Wavy Curve Method"
+        },
+        {
+          "id": "9",
+          "name": "Wavy Curve Method"
+        },
+        {
+          "id": "10",
+          "name": "Wavy Curve Method"
+        },
+        {
+          "id": "11",
+          "name": "Logarithm"
+        },
+        {
+          "id": "12",
+          "name": "Logarithm"
+        },
+        {
+          "id": "13",
+          "name": "Logarithm"
+        },
+        {
+          "id": "14",
+          "name": "Logarithm"
+        },
+        {
+          "id": "15",
+          "name": "Logarithm"
+        },
+        {
+          "id": "16",
+          "name": "Modulus"
+        },
+        {
+          "id": "17",
+          "name": "Modulus"
+        },
+        {
+          "id": "18",
+          "name": "Modulus"
+        },
+        {
+          "id": "19",
+          "name": "Modulus"
+        },
+        {
+          "id": "20",
+          "name": "Modulus"
+        }
+      ]
+    },
+    {
+      "chapterName": "Quadratic Equations",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction"
+        },
+        {
+          "id": "2",
+          "name": "Introduction"
+        },
+        {
+          "id": "3",
+          "name": "Common roots"
+        },
+        {
+          "id": "4",
+          "name": "Theory of equation"
+        },
+        {
+          "id": "5",
+          "name": "Theory of equation"
+        },
+        {
+          "id": "6",
+          "name": "Graph of ax2+bx+c"
+        },
+        {
+          "id": "7",
+          "name": "Location of roots"
+        },
+        {
+          "id": "8",
+          "name": "Some results"
+        },
+        {
+          "id": "9",
+          "name": "Descartes rule of signs"
+        }
+      ]
+    },
+    {
+      "chapterName": "Sequence and Series",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction"
+        },
+        {
+          "id": "2",
+          "name": "Arithmetic Progression (AP)"
+        },
+        {
+          "id": "3",
+          "name": "Geometric Progression (GP)"
+        },
+        {
+          "id": "4",
+          "name": "Harmonic Progression (HP)"
+        },
+        {
+          "id": "5",
+          "name": "Insertion of means between Two numbers"
+        },
+        {
+          "id": "6",
+          "name": "Properties of Means"
+        },
+        {
+          "id": "7",
+          "name": "Arithmetical Geometric Series (AGS)"
+        },
+        {
+          "id": "8",
+          "name": "Summation Method of difference"
+        },
+        {
+          "id": "9",
+          "name": "Telescopic series"
+        }
+      ]
+    },
+    {
+      "chapterName": "Trigonometric Functions",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Trigonometric Ratios for Acute Angle"
+        },
+        {
+          "id": "2",
+          "name": "Basic identities"
+        },
+        {
+          "id": "3",
+          "name": "Sign Convention of the Trigonometric Functions"
+        },
+        {
+          "id": "4",
+          "name": "Domain/Range of Trigonometric Functions"
+        },
+        {
+          "id": "5",
+          "name": "Allied Angles Sum and Difference Formulae"
+        },
+        {
+          "id": "6",
+          "name": "Multiple and Submultiple Angles Trigonometric Ratios of Standard Angles"
+        },
+        {
+          "id": "7",
+          "name": "Transformation Formulae"
+        },
+        {
+          "id": "8",
+          "name": "Identities"
+        },
+        {
+          "id": "9",
+          "name": "Maximum/Minimum Value Some Saries"
+        },
+        {
+          "id": "10",
+          "name": "Maximum/Minimum Value Some Series"
+        },
+        {
+          "id": "11",
+          "name": "Maximum/Minimum Value Same Series"
+        }
+      ]
+    },
+    {
+      "chapterName": "Trigonometric Equation",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Solution"
+        },
+        {
+          "id": "2",
+          "name": "Solution"
+        },
+        {
+          "id": "3",
+          "name": "Type of Trigonometric Equation"
+        },
+        {
+          "id": "4",
+          "name": "Type of Trigonometric Equation"
+        },
+        {
+          "id": "5",
+          "name": "Trigonometric Equation Type of Trigonometric Equation"
+        },
+        {
+          "id": "6",
+          "name": "Trigonometric Equation Type of Trigonometric Equation"
+        },
+        {
+          "id": "7",
+          "name": "Trigonometric Equation Type of Trigonometric Equation"
+        },
+        {
+          "id": "8",
+          "name": "Trigonometric Equation Type of Trigonometric Equation"
+        }
+      ]
+    },
+    {
+      "chapterName": "Relation Function",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction"
+        },
+        {
+          "id": "2",
+          "name": "Cartesian Products of Sets"
+        },
+        {
+          "id": "3",
+          "name": "Cartesian Products of Sets"
+        },
+        {
+          "id": "4",
+          "name": "Relation"
+        },
+        {
+          "id": "5",
+          "name": "Relation"
+        },
+        {
+          "id": "6",
+          "name": "Functions"
+        },
+        {
+          "id": "7",
+          "name": "Functions"
+        }
+      ]
+    },
+    {
+      "chapterName": "Permutations and Combinations",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction"
+        },
+        {
+          "id": "2",
+          "name": "Counting"
+        },
+        {
+          "id": "3",
+          "name": "Permutation"
+        },
+        {
+          "id": "4",
+          "name": "Circular Permutation"
+        },
+        {
+          "id": "5",
+          "name": "Combination"
+        },
+        {
+          "id": "6",
+          "name": "Divisors"
+        },
+        {
+          "id": "7",
+          "name": "Exponent"
+        },
+        {
+          "id": "8",
+          "name": "Division and distribution"
+        },
+        {
+          "id": "9",
+          "name": "Division and distribution"
+        },
+        {
+          "id": "10",
+          "name": "Derangement Some rules"
+        }
+      ]
+    },
+    {
+      "chapterName": "Binomial theorem",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Expansion of (x+a)n"
+        },
+        {
+          "id": "2",
+          "name": "General terms Middle terms"
+        },
+        {
+          "id": "3",
+          "name": "Numerically greatest term of binomial expansion Form (A+)n"
+        },
+        {
+          "id": "4",
+          "name": "Numerically greatest term of binomial expansion Form (A + In"
+        },
+        {
+          "id": "5",
+          "name": "Sum of coefficients in binomial expansion"
+        },
+        {
+          "id": "6",
+          "name": "Sum of coefficients in binomial expansion"
+        },
+        {
+          "id": "7",
+          "name": "Summation of series"
+        },
+        {
+          "id": "8",
+          "name": "Multinomial theorem"
+        },
+        {
+          "id": "9",
+          "name": "Binomial theorem for any index"
+        },
+        {
+          "id": "10",
+          "name": "Binomial theorem for any index"
+        }
+      ]
+    },
+    {
+      "chapterName": "Straight Lines",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Section formula Centre of Triangle"
+        },
+        {
+          "id": "2",
+          "name": "Different"
+        },
+        {
+          "id": "3",
+          "name": "Area Locus"
+        },
+        {
+          "id": "4",
+          "name": "Straight line Slope"
+        },
+        {
+          "id": "5",
+          "name": "Standard form of straight line"
+        },
+        {
+          "id": "6",
+          "name": "Position of point wat straight line"
+        },
+        {
+          "id": "7",
+          "name": "Angle between two straight lines"
+        },
+        {
+          "id": "8",
+          "name": "Perpendicular distance Transformation of Axis"
+        },
+        {
+          "id": "9",
+          "name": "Perpendicular distance Transformation of Axis"
+        },
+        {
+          "id": "10",
+          "name": "Concurrent lines"
+        },
+        {
+          "id": "11",
+          "name": "Family of lines"
+        },
+        {
+          "id": "12",
+          "name": "Pair Straight Line"
+        },
+        {
+          "id": "13",
+          "name": "Angle bisector"
+        }
+      ]
+    },
+    {
+      "chapterName": "Circles",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction General equation"
+        },
+        {
+          "id": "2",
+          "name": "Diameter form Parametric form"
+        },
+        {
+          "id": "3",
+          "name": "Intercept made on axis Position of paint w.rt circle"
+        },
+        {
+          "id": "4",
+          "name": "Position of straight lines w.z.t circles Tangent"
+        },
+        {
+          "id": "5",
+          "name": "Normal Director circle Chord of contact Chord of mid point form"
+        },
+        {
+          "id": "6",
+          "name": "Pair of tangent Radical axis"
+        },
+        {
+          "id": "7",
+          "name": "Family of circles Position of two Circles"
+        },
+        {
+          "id": "8",
+          "name": "Common tangent Angle of intersection of two circle"
+        },
+        {
+          "id": "9",
+          "name": "Orthogonality of two circles Circle circumscribing a triangle quadrilateral"
+        },
+        {
+          "id": "10",
+          "name": "Orthogonality of two circles Circle circumscribing a triangle quadrilateral"
+        }
+      ]
+    },
+    {
+      "chapterName": "Conic Sections Parabola",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Standard form Parametric form Types of parabola"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Standard form Parametric form Types of parabola"
+        },
+        {
+          "id": "3",
+          "name": "General equation Focal distance Some result"
+        },
+        {
+          "id": "4",
+          "name": "Position of point w.rt. parabola Position of straight lines w.r.t parabola"
+        },
+        {
+          "id": "5",
+          "name": "Tangent Normal"
+        },
+        {
+          "id": "6",
+          "name": "Properties of Tangent & Normal Focal chord Chord of contact"
+        },
+        {
+          "id": "7",
+          "name": "Chord in mid points form Pair of tangents Director circle Properties"
+        },
+        {
+          "id": "8",
+          "name": "Chord in mid points form Pair of tangents Director circle Properties"
+        }
+      ]
+    },
+    {
+      "chapterName": "Conic Sections Ellipse",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Standard form Auxiliary circle"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Standard form Auxiliary circle"
+        },
+        {
+          "id": "3",
+          "name": "General equation Another definition Focal distance"
+        },
+        {
+          "id": "4",
+          "name": "Position of point w.r.t, ellipse Position of straight line wrt ellipse"
+        },
+        {
+          "id": "5",
+          "name": "Tangent Normal"
+        },
+        {
+          "id": "6",
+          "name": "Equation of chord joining the P (a) and Q(b) Director circle Properties"
+        },
+        {
+          "id": "7",
+          "name": "Director circle Properties"
+        }
+      ]
+    },
+    {
+      "chapterName": "Conic Sections Hyperbola",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Standard form Auxiliary circle General equation Another definition"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Standard form Auxiliary circle General equation Another definition Focal distance Position of point w.rt. hyperbola Position of straight lines w.r.t. hyperbola"
+        },
+        {
+          "id": "3",
+          "name": "Tangent Normal Properties Related to Tangent & normal"
+        },
+        {
+          "id": "4",
+          "name": "Chord of contact Chord in mid point form Pair of tangents Director circle"
+        },
+        {
+          "id": "5",
+          "name": "Asymptotes Rectangular hyperbola Properties"
+        }
+      ]
+    },
+    {
+      "chapterName": "Complex Number",
+      "topics": [
+        {
+          "id": "1",
+          "name": "IntroductionComplex , Numbers"
+        },
+        {
+          "id": "2",
+          "name": "Algebraic operations"
+        },
+        {
+          "id": "3",
+          "name": "Argand Plane or comples plane"
+        },
+        {
+          "id": "4",
+          "name": "Conjugate of Complex"
+        },
+        {
+          "id": "5",
+          "name": "Modulus of complex no"
+        },
+        {
+          "id": "6",
+          "name": "Argument of Complex numbers"
+        },
+        {
+          "id": "7",
+          "name": "Form of complex numbers"
+        },
+        {
+          "id": "8",
+          "name": "De moivre's theorem"
+        },
+        {
+          "id": "9",
+          "name": "Cube roots of unity nth root of unity"
+        },
+        {
+          "id": "10",
+          "name": "Geometry of complex"
+        }
+      ]
+    },
+    {
+      "chapterName": "Limits and Derivatives",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Limit"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Limit"
+        },
+        {
+          "id": "3",
+          "name": "Derivative"
+        }
+      ]
+    },
+    {
+      "chapterName": "Statistics",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Variable (Variate) Relative and cumulative frequency"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Variable (Variate) Relative and cumulative frequency"
+        },
+        {
+          "id": "3",
+          "name": "Mean Median Mode Relation among mean median and mode"
+        },
+        {
+          "id": "4",
+          "name": "Measure of Dispersion Variance"
+        }
+      ]
+    },
+    {
+      "chapterName": "Probability",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Event Types of events Algebra of events Complementary event Mutually exclusive event Exhaustive event Axiomatic approach to probability Variance"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Event Types of events Algebra of events Complementary event. Mutually exclusive event Exhaustive event Axiomatic approach to probability Variance"
+        }
+      ]
+    },
+    {
+      "chapterName": "Introduction to Three Dimensional Geometry",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Coordinate Axes and coordinate plane Coordinate of point is space Distance nce between two points Section Formula"
+        },
+        {
+          "id": "2",
+          "name": "Introduction Coordinate Axes and coordinate plane Coordinate of point is space Distance between two points Section Formula"
+        }
+      ]
+    },
+    {
+      "chapterName": "Linear Inequalities",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction, Basic Concepts & Terminologies Solving Linear Inequalities in One Variable Solving Linear Inequalities in Two Variables Graphical Method & Shaded Regions Word Problems & Real-life Application"
+        },
+        {
+          "id": "2",
+          "name": "Introduction, Basic Concepts & Terminologies Solving Linear Inequalities in One Variable Solving Linear Inequalities in Two Variables Graphical Method & Shaded Regions Word Problems & Real-life Application"
+        }
+      ]
+    },
+    {
+      "chapterName": "Solution of Triangle",
+      "topics": [
+        {
+          "id": "1",
+          "name": "Introduction Sine rule Cosine rule Projection Formulae Napier's Analogy Auxiliary formulas Area of triangle Centres of Triangle Regular Polygon"
+        },
+        {
+          "id": "2",
+          "name": "Solution of Triangle Excentral triangle Some Results"
+        }
+      ]
+    }
+  ]
+}

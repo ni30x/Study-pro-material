@@ -1,0 +1,99 @@
+{
+  "bookName": "Rahul dudi-11",
+  "shortName": "Dudi",
+  "globalFeatures": {
+    "backlog": true,
+    "master": true,
+    "revisionCount": true,
+    "deleteAllowance": true
+  },
+  "chapters": [
+    {
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "1.1", "name": "Nature of Matter, Classification, Properties, and SI Units", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.2", "name": "Uncertainty in Measurement", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.3", "name": "Laws of Chemical Combinations", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.4", "name": "Dalton's Atomic Theory", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.5", "name": "Atomic Mass Unit", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.6", "name": "Gram Atomic Mass", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.7", "name": "Average Atomic Mass", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.8", "name": "Molecular Mass, Gram Molecular Mass, Average Molecular Mass, Formula Mass", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.9", "name": "Percentage Composition, Empirical and Molecular Formulae", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.10", "name": "Mole, Vapour density, Atomicity, Mole Concept", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.11", "name": "Stoichiometry and Stoichiometric Calculations", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "1.12", "name": "Concentration Terms & Application", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "Structure of Atom",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "2.1", "name": "Introduction", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.2", "name": "Fundamental Particles and Discovery", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.3", "name": "Atomic Models", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.4", "name": "Atomic Terms, Nature of Light, Planck's Quantum Theory", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.5", "name": "Bohr's Model for Hydrogen Atoms", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.6", "name": "Ionization Energy", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.7", "name": "Spectrum and Quantum Mechanical Model", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.8", "name": "Quantum Numbers", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "2.9", "name": "Rules for Filling Electrons in Orbitals", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "State of Matter",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "3.1", "name": "The Gaseous State and Gas Laws", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "3.2", "name": "Ideal Gas Equation and Gas Laws", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "3.3", "name": "Kinetic Molecular Theory of Gases", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "3.4", "name": "Maxwell-Boltzmann Distribution and Real Gas Behaviour", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "3.5", "name": "Van der Waals Equation", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "3.6", "name": "Liquefaction of Gases and Eudiometry", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "Thermodynamics",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "4.1", "name": "Introduction and Basic Terms", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.2", "name": "Types of Properties and Thermodynamic Processes", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.3", "name": "Work, Heat, Internal Energy, and First Law", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.4", "name": "Thermochemistry and Laws of Thermochemistry", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.5", "name": "Enthalpy Changes in Reactions", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.6", "name": "Entropy and Second Law of Thermodynamics", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "4.7", "name": "Gibbs Free Energy", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "Redox Reaction",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "5.1", "name": "Introduction and Balancing Redox Reactions", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "5.2", "name": "n-Factor (Valency Factor)", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "5.3", "name": "Law of Equivalence", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "Chemical Equilibrium",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "6.1", "name": "Introduction and Law of Mass Action", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "6.2", "name": "Equilibrium Constant and Reaction Quotient", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "6.3", "name": "Le Chatelier's Principle", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "6.4", "name": "Free Energy and Physical Equilibrium", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    },
+    {
+      "chapterName": "Ionic Equilibrium",
+      "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false },
+      "topics": [
+        { "id": "7.1", "name": "Electrolytes, Acid-Base Theories, Water Ionization", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "7.2", "name": "pH Scale and Ionization of Weak Electrolytes", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "7.3", "name": "Common Ion Effect and pH Calculation", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } },
+        { "id": "7.4", "name": "Buffer Solution, Salt Hydrolysis, and Indicators", "features": { "backlog": true, "master": true, "revisionCount": true, "deleteAllowance": false } }
+      ]
+    }
+  ]
+}
